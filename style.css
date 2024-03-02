@@ -1,0 +1,32 @@
+.box_principal{
+    background-color: #15F5BA;
+    width: 500px;
+    height: 500px;
+}
+
+.box2{
+    width: 50vw; 
+    height: 50vh; 
+    background-color: rgb(248, 11, 11);
+}
+
+.box3{
+    width: 25vw; 
+    height: 25vh; 
+    background-color: brown;
+}
+
+.box4{
+    background-color:  #345cd6; 
+    height: 100px; 
+    width: 100px;
+}
+
+.p1{
+    color: black; 
+    background-color: lightblue; 
+    font-size: 15px; 
+    font-family: monospace; 
+    font-weight: bold;
+    font-style: italic;
+}
